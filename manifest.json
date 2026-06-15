@@ -1,0 +1,16 @@
+{
+  "name": "1000 Finestre",
+  "short_name": "1000 Finestre",
+  "description": "Ein gemütliches Tipp-Spiel: klopfe an die Fenster und entdecke die Bewohner. Mit Erledigungstag, Memory, Stadt und Bau-Modus.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#8FD4E8",
+  "theme_color": "#8FD4E8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
